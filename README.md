@@ -9,32 +9,32 @@ This application is made with Flutter and uses **Firebase** and **SQFLite** as b
 
 Here are some Screenshots of the Appication 
 
-![Login Page 1](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/1.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/1.png", width="200"/>
 
-![Login Page 2](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/2.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/2.png", width="200"/>
 
-![Login Page 3](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/3.png)
+<img srg = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/3.png", width="200"/>
 
-![Login Page 4](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/4.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/4.png", width="200"/>
 
-![Home Screen](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/5.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/5.png", width="200"/>
 
-![Add new Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/6.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/6.png", width="200"/>
 
-![Add new Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/7.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/7.png", width="200"/>
 
-![Add new Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/8.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/8.png", width="200"/>
 
-![Update Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/9.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/9.png", width="200"/>
 
-![Home Screen List](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/10.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/10.png", width="200"/>
 
-![Add new Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/11.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/11.png", width="200"/>
 
-![Edit Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/12.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/12.png", width="200"/>
 
-![Edit Movie](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/13.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/13.png", width="200"/>
 
-![List Continued](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/14.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/14.png", width="200"/>
 
-![List Continued](https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/15.png)
+<img src = "https://github.com/Somsubro-Banerjee/movielib/blob/main/screenshots/15.png", width="200"/>
